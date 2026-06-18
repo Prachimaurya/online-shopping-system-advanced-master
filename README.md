@@ -31,16 +31,7 @@
 </p>
 <h1>Projects We develop</h1>
 
-<ul>
-	<li><b>Vue JS</b></li>
-	<li><b>Nuxt JS</b></li>
-	<li><b>Python</b></li>
-	<li><b>Django</b></li>
-	<li><b>PHP and MYSQL</b></li>
-	<li><b>Angular JS</b></li>
-	<li><b>React JS</b></li>
-	<li><b>AI/ML</b></li>
-</ul>
+
 
 # Installation
 
