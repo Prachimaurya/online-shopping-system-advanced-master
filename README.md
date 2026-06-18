@@ -42,16 +42,7 @@
 
 13. admin login details  Email=admin@gmail.com or username = admin and Password=123456789.
 
-## If you like my project 
-Bye me Cup of coffee
 
-
-## visit my other repository with different admin pages with below link
-https://github.com/PuneethReddyHC/online-shopping-system-advanced
-
-https://github.com/PuneethReddyHC/event-management
-
-##  If you like my project hit a star button
 
 
 
