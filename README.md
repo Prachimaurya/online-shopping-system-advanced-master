@@ -1,9 +1,3 @@
-![GitHub](https://img.shields.io/github/license/puneethreddyhc/online-shopping-system-advanced)
-![](https://visitor-badge.glitch.me/badge?page_id=puneethreddyhc.onlineadv)
-
-
-
-
 <p>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
